@@ -2,6 +2,7 @@
 pip install cowsay
 
 _______________________________________________________________________________________<br>
+Cowsay, in Python, makes pies. One file, easily embedded into your app. It's directly executable and can be used on the CLI much like the original Cowsay. Or it can be used as a Python module that is imported into a Python program.<br>
   _____
 | Hello |
   =====
